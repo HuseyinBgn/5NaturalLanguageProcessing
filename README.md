@@ -1,5 +1,6 @@
 Name des Projekts:	NLP
 Link zum MyBinder: 	https://github.com/HuseyinBgn/5NaturalLanguageProcessing
+
 Doku:	
 
 Die Beispiele der Übungsaufgabe befinden sich in der NLP.ipynb Datei.
