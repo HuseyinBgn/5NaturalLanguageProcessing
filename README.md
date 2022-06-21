@@ -1,5 +1,5 @@
-Name des Projekts:	NLP
-Link zum MyBinder: 	https://github.com/HuseyinBgn/5NaturalLanguageProcessing
+Name des Projekts:	NLP Projekt
+Link zum MyBinder: 	[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HuseyinBgn/5NaturalLanguageProcessing/HEAD)
 
 Doku:	
 
